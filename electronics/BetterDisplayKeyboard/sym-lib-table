@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "BetterDisplayKeyboard-rescue")(type "Legacy")(uri "${KIPRJMOD}/BetterDisplayKeyboard-rescue.lib")(options "")(descr ""))
+)
